@@ -1,0 +1,6 @@
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\CPA\Level-4\Software Quality Assurance\MidTerm\StudentRegistration\obj\Debug\StudentRegistration.pdb

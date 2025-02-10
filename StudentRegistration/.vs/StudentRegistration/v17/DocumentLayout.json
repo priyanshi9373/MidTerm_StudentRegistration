@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0C36EA5-0EDF-489A-AB0D-D67292C9712E}|StudentRegistration.csproj|C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistration\\registartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0C36EA5-0EDF-489A-AB0D-D67292C9712E}|StudentRegistration.csproj|solutionrelative:registartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F01158B1-655E-4D8E-959B-C6ACFD0D5A0C}|..\\StudentRegistrationTest\\StudentRegistrationTest.csproj|c:\\cpa\\level-4\\software quality assurance\\midterm\\studentregistrationtest\\registrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01158B1-655E-4D8E-959B-C6ACFD0D5A0C}|..\\StudentRegistrationTest\\StudentRegistrationTest.csproj|c:\\cpa\\level-4\\software quality assurance\\midterm\\studentregistrationtest\\registrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C36EA5-0EDF-489A-AB0D-D67292C9712E}|StudentRegistration.csproj|c:\\cpa\\level-4\\software quality assurance\\midterm\\studentregistration\\registartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C36EA5-0EDF-489A-AB0D-D67292C9712E}|StudentRegistration.csproj|solutionrelative:registartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01158B1-655E-4D8E-959B-C6ACFD0D5A0C}|..\\StudentRegistrationTest\\StudentRegistrationTest.csproj|c:\\cpa\\level-4\\software quality assurance\\midterm\\studentregistrationtest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,30 +24,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RegistrationTests.cs",
               "DocumentMoniker": "C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistrationTest\\RegistrationTests.cs",
               "RelativeDocumentMoniker": "..\\StudentRegistrationTest\\RegistrationTests.cs",
               "ToolTip": "C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistrationTest\\RegistrationTests.cs",
               "RelativeToolTip": "..\\StudentRegistrationTest\\RegistrationTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T18:13:48.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Registartion.cs",
               "DocumentMoniker": "C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistration\\Registartion.cs",
               "RelativeDocumentMoniker": "Registartion.cs",
               "ToolTip": "C:\\CPA\\Level-4\\Software Quality Assurance\\MidTerm\\StudentRegistration\\Registartion.cs",
               "RelativeToolTip": "Registartion.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwCcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T18:13:19.442Z",
               "EditorCaption": ""
